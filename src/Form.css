@@ -1,5 +1,4 @@
 .form {
-<<<<<<< HEAD
   background: linear-gradient(#eeeeee, #dfdfdf);
   font-size: 1.8rem;
   padding: 10px;
@@ -22,10 +21,4 @@ input[type="text"] {
 }
 .type {
   padding-left: 8%;
-=======
-  background: linear-gradient(#70c1b3, #b2dbbf);
-  color: #fff;
-  font-size: 1.8rem;
-  padding: 25px;
->>>>>>> 80c63e3090ff850961baa4971bc22e17d71d8e50
 }
