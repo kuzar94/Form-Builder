@@ -1,3 +1,7 @@
+Zatrzymałem się na przenoszeniu funkcji do dziecka kolejnego dziecka, Przez to w Form.jsx i SubForm.jsx powielają sie te same funkcje. Następnie miałem problem zaimplementowania funkcji zmiany pola input w SubForm.jsx w zależności od pola select jego rodzica. Nie napisałem funkcji zapisywania stanów przez poprzednie problemy.
+
+Projekt powinien się uruchomić przez npm start na scieżce projektu.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
